@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPexempleFirst</string>
+    <string name="clear">Очистить</string>
+    <string name="add">Добавить</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="empty_values">Пустое значение</string>
+</resources>
